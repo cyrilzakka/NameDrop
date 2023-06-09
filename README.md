@@ -1,2 +1,2 @@
 # NameDrop
-Poor man's replica of iOS 17 NameDrop animation
+Water ripple effect written in SwiftUI/GLSL to replicate the NameDrop animation first demoed on iOS 17.
